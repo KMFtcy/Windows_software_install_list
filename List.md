@@ -13,4 +13,4 @@
 * Xmind
 * Jetbrains Package
 * SumatraPDF
-
+* xshell
