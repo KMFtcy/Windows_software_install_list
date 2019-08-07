@@ -1,16 +1,27 @@
 ## Software List
 
-* Office 365
-* Chrome
-* 百度网盘
-* 迅雷
-* vs studio
-* VM ware
-* Ticktick
-* Tim
-* Wechat
-* Evernote
-* Xmind
-* Jetbrains Package
-* SumatraPDF
-* xshell
+* 安装chrome
+* 安装微信
+* 安装tim
+* 安装shadowsock,并加入a开机启动项
+* 登录chrome的谷歌账户
+* 安装滴答清单
+* 安装listary
+* 安装everthing
+* 安装ditto
+* 安装evernote
+* 安装百度网盘
+* 安装迅雷
+* 安装office365
+* 安装java
+* 安装python
+* 安装pycharm
+* 安装IntelliJ
+* 安装xshell
+* 安装SumatraPDF
+* 安装xmind
+* 安装vmware
+* 安装一个centos
+* 安装steam
+* 安装wallpaperengine
+* 安装TranslucentTB
