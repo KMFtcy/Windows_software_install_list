@@ -9,6 +9,8 @@
 * 安装listary
 * 安装everthing
 * 安装ditto
+* 安装snipaste
+* 安装winrar
 * 安装evernote
 * 安装百度网盘
 * 安装迅雷
@@ -18,6 +20,7 @@
 * 安装pycharm
 * 安装IntelliJ
 * 安装xshell
+* 安装winscp
 * 安装SumatraPDF
 * 安装xmind
 * 安装vmware
