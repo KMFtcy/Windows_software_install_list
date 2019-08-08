@@ -23,8 +23,10 @@
 * 安装winscp
 * 安装SumatraPDF
 * 安装xmind
-* 安装vmware
-* 安装一个centos
+* 安装telnet功能
+* 安装WSL
+* //安装vmware
+* //安装一个centos
 * 安装steam
 * 安装wallpaperengine
 * 安装TranslucentTB
