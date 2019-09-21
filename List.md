@@ -28,6 +28,7 @@
 * //安装vmware
 * //安装一个centos
 * 安装virtualbox
+* 安装mysql workbench
 * 安装steam
 * 安装wallpaperengine
 * 安装TranslucentTB
