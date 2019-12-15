@@ -1,6 +1,7 @@
 ## Software List
 
 * 安装chrome
+* 安装java（请大陆用户一定要尽量提早安装，下载起来太慢了）
 * 安装微信
 * 安装tim
 * 安装shadowsock,并加入a开机启动项
@@ -13,11 +14,11 @@
 * 安装winrar
 * 安装evernote
 * 安装百度网盘
-* 安装迅雷
+* 安装迅雷/IDM
 * 安装office365
-* 安装java
 * 安装python
 * 安装pycharm
+* 安装ms code
 * 安装IntelliJ
 * 安装xshell
 * 安装winscp
@@ -30,5 +31,6 @@
 * 安装virtualbox
 * 安装mysql workbench
 * 安装steam
+* 微软必应词典（win32版本，双击alt可以打开查询窗口）
 * 安装wallpaperengine
 * 安装TranslucentTB
