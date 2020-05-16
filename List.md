@@ -32,6 +32,6 @@
 * 安装virtualbox
 * 安装mysql workbench
 * 安装steam
-* 微软必应词典（win32版本，双击alt可以打开查询窗口）
+* 欧陆词典
 * 安装wallpaperengine
 * 安装TranslucentTB
