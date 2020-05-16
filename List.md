@@ -22,7 +22,8 @@
 * 安装IntelliJ
 * 安装xshell
 * 安装winscp
-* 安装SumatraPDF
+//* 安装SumatraPDF
+* 安装Foxit PhantomPDF
 * 安装xmind
 * 安装telnet功能
 * 安装WSL
