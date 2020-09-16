@@ -2,10 +2,12 @@
 
 //* 安装chrome
 * 安装edge
-* 安装java（请大陆用户一定要尽量提早安装，下载起来太慢了）
+* 安装wsl
+* 安装telnet功能
+* 安装windowsterminal
+* 安装迅雷/IDM
 * 安装微信
 * 安装tim
-//* 安装shadowsock,并加入开机启动项
 * 安装v2ray
 * 安装滴答清单
 * 安装listary
@@ -15,7 +17,6 @@
 * 安装winrar
 * 安装evernote
 * 安装百度网盘
-* 安装迅雷/IDM
 * 安装office365
 * 安装python
 * 安装pycharm
@@ -26,10 +27,7 @@
 //* 安装SumatraPDF
 * 安装Foxit PhantomPDF
 * 安装xmind
-* 安装telnet功能
-* 安装WSL
 * //安装vmware
-* //安装一个centos
 * 安装virtualbox
 * 安装steam
 * 欧陆词典
