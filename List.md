@@ -33,3 +33,4 @@
 * 欧陆词典
 * 安装wallpaperengine
 * 安装TranslucentTB
+* 安装mindmaster
