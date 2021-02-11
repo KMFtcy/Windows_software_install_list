@@ -34,3 +34,5 @@
 * 安装wallpaperengine
 * 安装TranslucentTB
 * 安装mindmaster
+* 安装bing wallpaper
+* 安装autohotkey
