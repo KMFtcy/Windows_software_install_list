@@ -8,6 +8,7 @@
 * 安装迅雷/IDM
 * 安装微信
 * 安装tim
+* git
 * 安装v2ray
 * 安装滴答清单
 * 安装listary
