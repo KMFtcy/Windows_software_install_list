@@ -1,7 +1,7 @@
 ## Software List
 
-//* 安装chrome
 * 安装edge
+* 安装fidder来设置store不走代理
 * 安装wsl
 * 安装telnet功能
 * 安装windowsterminal
@@ -22,13 +22,11 @@
 * 安装python
 * 安装pycharm
 * 安装vscode
-//* 安装xshell
 * MobaXterm
 * 安装winscp
 //* 安装SumatraPDF
 * 安装Foxit PhantomPDF
 * 安装xmind
-* //安装vmware
 * 安装virtualbox
 * 安装steam
 * 欧陆词典
