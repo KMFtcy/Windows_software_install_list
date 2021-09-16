@@ -35,3 +35,9 @@
 * 安装mindmaster
 * 安装bing wallpaper
 * 安装autohotkey
+* 安装quicklook
+
+* 安装zetora
+* 安装joplin
+
+
