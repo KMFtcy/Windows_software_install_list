@@ -38,5 +38,5 @@
 * 安装quicklook
 * 安装zetora
 * 安装joplin
-* 更改按键映射 https://www.evernote.com/shard/s600/sh/92668760-e7b4-465b-91ae-afa514141ed7/
+* 安装powertoys，更改按键映射
 
