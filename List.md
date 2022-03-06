@@ -7,6 +7,7 @@
 * 安装windowsterminal
 * 安装迅雷/IDM
 * 安装微信
+* 根据这个链接更改顿号案件：https://blog.csdn.net/weixin_41010198/article/details/111231468
 * 安装tim
 * git
 * 安装v2ray
