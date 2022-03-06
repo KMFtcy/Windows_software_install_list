@@ -30,7 +30,7 @@
 //* 安装Foxit PhantomPDF
 * 安装virtualbox
 * 安装steam
-* 欧陆词典
+* 安装欧陆词典
 * 安装wallpaperengine
 * 安装TranslucentTB
 * 安装mindmaster
