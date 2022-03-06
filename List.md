@@ -25,9 +25,9 @@
 * 安装vscode
 * MobaXterm
 * 安装winscp
-//* 安装SumatraPDF
-* 安装Foxit PhantomPDF
-* 安装xmind
+* 安装SumatraPDF
+* 安装小绿鲸
+//* 安装Foxit PhantomPDF
 * 安装virtualbox
 * 安装steam
 * 欧陆词典
