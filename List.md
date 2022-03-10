@@ -7,7 +7,6 @@
 * 安装windowsterminal
 * 安装迅雷/IDM
 * 安装微信
-* 根据这个链接更改顿号按键功能：https://blog.csdn.net/weixin_41010198/article/details/111231468
 * 安装tim
 * git
 * 安装v2ray
@@ -40,4 +39,5 @@
 * 安装zetora
 * 安装joplin
 * 安装powertoys，更改按键映射
+* 下载并安装Nerd Font: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/JetBrainsMono.zip
 
