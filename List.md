@@ -39,5 +39,6 @@
 * 安装zetora
 * 安装joplin
 * 安装powertoys，更改按键映射
+* 安装draw.io
 * 下载并安装Nerd Font: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/JetBrainsMono.zip
 
