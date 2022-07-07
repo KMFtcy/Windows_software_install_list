@@ -10,7 +10,7 @@
 * 安装tim
 * 安装git
 * 安装v2ray
-* 安装ticktick，不是滴答清单
+* 安装滴答清单，不是ticktick
 * 安装listary
 * 安装everthing
 * 安装ditto
