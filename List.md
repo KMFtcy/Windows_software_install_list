@@ -36,7 +36,7 @@
 * 安装bing wallpaper
 * 安装autohotkey
 * 安装powertoys，更改按键映射
-* 安装draw.io
+* 安装draw.io,在store上可以选择
 * 安装onemark(可选，版本不稳定)
 * 下载并安装Nerd Font: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/JetBrainsMono.zip
 
