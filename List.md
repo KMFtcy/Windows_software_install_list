@@ -8,7 +8,7 @@
 * 安装迅雷/IDM
 * 安装微信
 * 安装tim
-* git
+* 安装git
 * 安装v2ray
 * 安装滴答清单
 * 安装listary
@@ -22,7 +22,7 @@
 * 安装python
 * 安装pycharm
 * 安装vscode
-* MobaXterm
+* 安装MobaXterm
 * 安装winscp
 * 安装SumatraPDF
 * 安装小绿鲸
@@ -35,9 +35,6 @@
 * 安装mindmaster
 * 安装bing wallpaper
 * 安装autohotkey
-* 安装quicklook
-* 安装zetora
-* 安装joplin
 * 安装powertoys，更改按键映射
 * 安装draw.io
 * 安装onemark(可选，版本不稳定)
