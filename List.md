@@ -25,7 +25,10 @@
 * 安装MobaXterm
 * 安装winscp
 * 安装SumatraPDF
-* 安装小绿鲸
+* 安装zotero
+  * 安装zotero-shortdoi(https://github.com/bwiernik/zotero-shortdoi/releases)
+  * 安装zotero-scihub(https://github.com/ethanwillis/zotero-scihub/releases)
+  * 安装zotfile(http://zotfile.com/)
 //* 安装Foxit PhantomPDF
 * 安装virtualbox
 * 安装steam
