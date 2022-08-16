@@ -30,8 +30,8 @@
   * 安装zotero-scihub(https://github.com/ethanwillis/zotero-scihub/releases)
   * 安装zotfile(http://zotfile.com/)
   * 安装zotero-pdf-preview(https://github.com/windingwind/zotero-pdf-preview/releases)
-  * 安装zotero-translate(https://github.com/windingwind/zotero-pdf-translate)
-  * 安装zotero-tags(https://github.com/windingwind/zotero-tag)
+  * 安装zotero-translate(https://github.com/windingwind/zotero-pdf-translate/releases)
+  * 安装zotero-tags(https://github.com/windingwind/zotero-tag/releases)
 * 安装virtualbox
 * 安装steam
 * 安装欧陆词典
