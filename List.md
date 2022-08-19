@@ -43,5 +43,6 @@
 * 安装powertoys，更改按键映射（https://github.com/microsoft/PowerToys/releases）
 * 安装draw.io,在store上可以选择
 * 安装onemark(可选，版本不稳定)
+* 安装obsidian（https://obsidian.md/download）
 * 下载并安装Nerd Font: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/JetBrainsMono.zip
 
