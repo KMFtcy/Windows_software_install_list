@@ -9,6 +9,7 @@
   * 安装draw.io,在store上可以选择
   * 安装python
   * 安装ditto
+  * 安装snipaste
 * 安装迅雷/IDM
 * 安装微信
 * 安装tim
@@ -17,7 +18,6 @@
 * 安装滴答清单，不是ticktick
 * 安装listary
 * 安装everthing
-* 安装snipaste
 * 安装winrar
 * 安装evernote
 * 安装百度网盘
