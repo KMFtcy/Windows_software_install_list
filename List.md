@@ -6,7 +6,6 @@
 * 安装telnet功能
 * Store安装
   * 安装windowsterminal
-  * 安装draw.io,在store上可以选择
   * 安装python
   * 安装ditto
   * 安装snipaste
@@ -45,5 +44,6 @@
 * 安装powertoys，更改按键映射（https://github.com/microsoft/PowerToys/releases）
 * 安装onemark(可选，版本不稳定)
 * 安装obsidian（https://obsidian.md/download）
+* 安装draw.io(https://github.com/jgraph/drawio-desktop/releases)
 * 下载并安装Nerd Font: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/JetBrainsMono.zip
 
