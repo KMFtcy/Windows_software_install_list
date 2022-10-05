@@ -4,7 +4,11 @@
 * 安装fidder来设置store不走代理
 * 安装wsl
 * 安装telnet功能
-* 安装windowsterminal
+* Store安装
+  * 安装windowsterminal
+  * 安装draw.io,在store上可以选择
+  * 安装python
+  * 安装ditto
 * 安装迅雷/IDM
 * 安装微信
 * 安装tim
@@ -13,13 +17,11 @@
 * 安装滴答清单，不是ticktick
 * 安装listary
 * 安装everthing
-* 安装ditto
 * 安装snipaste
 * 安装winrar
 * 安装evernote
 * 安装百度网盘
 * 安装office365
-* 安装python
 * 安装pycharm
 * 安装vscode
 * 安装MobaXterm
@@ -41,7 +43,6 @@
 * 安装bing wallpaper
 * 安装autohotkey
 * 安装powertoys，更改按键映射（https://github.com/microsoft/PowerToys/releases）
-* 安装draw.io,在store上可以选择
 * 安装onemark(可选，版本不稳定)
 * 安装obsidian（https://obsidian.md/download）
 * 下载并安装Nerd Font: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/JetBrainsMono.zip
