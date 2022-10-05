@@ -17,7 +17,7 @@
 * 安装滴答清单，不是ticktick
 * 安装listary
 * 安装everthing
-* 安装winrar
+* 安装7-zip
 * 安装evernote
 * 安装百度网盘
 * 安装office365
