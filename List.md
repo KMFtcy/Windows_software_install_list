@@ -4,7 +4,7 @@
 * 安装fidder来设置store不走代理
 * 安装wsl
 * 安装telnet功能
-* 安装powertoys，更改按键映射（https://github.com/microsoft/PowerToys/releases）
+* 安装powertoys，更改按键映射(https://github.com/microsoft/PowerToys/releases)
 * Store安装
   * 安装windowsterminal
   * 安装python
