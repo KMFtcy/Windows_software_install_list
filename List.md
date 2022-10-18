@@ -16,9 +16,9 @@
 * 安装tim
 * 安装git
 * 安装v2ray
-* 安装滴答清单，不是ticktick
-* 安装listary
-* 安装everthing
+* 安装滴答清单，不是ticktick(https://dida365.com/about/download)
+* 安装listary(https://www.listary.com/download)
+* 安装everthing(https://www.voidtools.com/zh-cn/)
 * 安装7-zip(https://www.7-zip.org/download.html)
 * 安装evernote(https://www.yinxiang.com/dl-win/?)
 * 安装百度网盘(https://pan.baidu.com/download?from=header#win)
