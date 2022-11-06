@@ -12,6 +12,7 @@
   * 安装snipaste
   * 安装TranslucentTB
 * 安装迅雷/IDM
+* 安装比特彗星(https://www.bitcomet.com/tw/downloading?platform=win32)
 * 安装微信
 * 安装tim
 * 安装git
