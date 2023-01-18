@@ -21,7 +21,7 @@
 * 安装listary(https://www.listary.com/download)
 * 安装everthing(https://www.voidtools.com/zh-cn/)
 * 安装7-zip(https://www.7-zip.org/download.html)
-* 安装evernote(https://www.yinxiang.com/dl-win/?)
+* 安装evernote(https://evernote.com/intl/zh-cn/download)
 * 安装百度网盘(https://pan.baidu.com/download?from=header#win)
 * 安装office365
 * 安装vscode(https://code.visualstudio.com/download)
