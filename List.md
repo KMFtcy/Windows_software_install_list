@@ -11,6 +11,7 @@
   * 安装ditto
   * 安装snipaste
   * 安装TranslucentTB
+  * 安装office365
 * 安装迅雷/IDM
 * 安装比特彗星(https://www.bitcomet.com/tw/downloading?platform=win32)
 * 安装微信
@@ -23,7 +24,6 @@
 * 安装7-zip(https://www.7-zip.org/download.html)
 * 安装evernote(https://evernote.com/intl/zh-cn/download)
 * 安装百度网盘(https://pan.baidu.com/download?from=header#win)
-* 安装office365
 * 安装vscode(https://code.visualstudio.com/download)
 * 安装MobaXterm(https://mobaxterm.mobatek.net/download.html)
 * 安装winscp(https://winscp.net/eng/download.php)
