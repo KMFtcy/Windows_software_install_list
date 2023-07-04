@@ -45,4 +45,17 @@
 * 安装obsidian(https://obsidian.md/download)
 * 安装draw.io(https://github.com/jgraph/drawio-desktop/releases)
 * 下载并安装Nerd Font: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/JetBrainsMono.zip
+* Scoop(https://scoop.sh/)
+``` powershell
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
+irm get.scoop.sh | iex
+```
+* Install lazygit through Scoop
+```powershell
+# Add the extras bucket
+scoop bucket add extras
+
+# Install lazygit
+scoop install lazygit
+```
 
