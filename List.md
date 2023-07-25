@@ -12,6 +12,7 @@
   * 安装snipaste
   * 安装TranslucentTB
   * 安装office365
+  * 安装Typedown
 * 安装迅雷/IDM
 * 安装比特彗星(https://www.bitcomet.com/tw/downloading?platform=win32)
 * 安装微信
@@ -42,7 +43,7 @@
 * 安装mindmaster(https://www.edrawsoft.cn/mindmaster/)
 * 安装bing wallpaper
 * 安装onemark(可选，版本不稳定)
-* 安装obsidian(https://obsidian.md/download)
+* ~~安装obsidian(https://obsidian.md/download)~~
 * 安装draw.io(https://github.com/jgraph/drawio-desktop/releases)
 * 下载并安装Nerd Font: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/JetBrainsMono.zip
 * Scoop(https://scoop.sh/)
