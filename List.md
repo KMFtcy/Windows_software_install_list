@@ -18,7 +18,6 @@
 * 安装微信
 * 安装tim
 * 安装git
-* 安装v2ray
 * 安装滴答清单，不是ticktick(https://dida365.com/about/download)
 * 安装listary(https://www.listary.com/download)
 * 安装everthing(https://www.voidtools.com/zh-cn/)
