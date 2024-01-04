@@ -39,7 +39,7 @@
 * 安装steam(https://store.steampowered.com/about/)
 * 安装欧陆词典(https://www.eudic.net/v4/en/app/download)
 * 安装wallpaperengine
-* 安装mindmaster(https://www.edrawsoft.cn/mindmaster/)
+* 安装百度脑图(https://github.com/NaoTu/DesktopNaotu/releases/)
 * 安装bing wallpaper
 * 安装onemark(可选，版本不稳定)
 * ~~安装obsidian(https://obsidian.md/download)~~
