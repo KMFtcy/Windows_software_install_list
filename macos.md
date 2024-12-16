@@ -10,6 +10,7 @@
 - 安装evernote(https://evernote.com/download)
 - 安装欧陆词典(https://www.eudic.net/v4/en/app/download)
 - 安装qspace(https://qspace.awehunt.com/zh-cn/index.html)
+- 安装rectangle(https://rectangleapp.com/)
 ### Store 安装
 - 安装onedrive
 - 安装office N件套
