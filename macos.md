@@ -14,6 +14,7 @@
 - 安装vscode(https://code.visualstudio.com/)
 - 安装cursor(https://www.cursor.com/)
 - 安装poe(https://poe.com/)
+- 安装anaconda(https://www.anaconda.com/download/success)
 ### Store 安装
 - 安装onedrive
 - 安装office N件套
