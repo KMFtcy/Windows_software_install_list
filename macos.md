@@ -15,6 +15,7 @@
 - 安装cursor(https://www.cursor.com/)
 - 安装poe(https://poe.com/)
 - 安装anaconda(https://www.anaconda.com/download/success)
+- 安装brew install(/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)")
 ### Store 安装
 - 安装onedrive
 - 安装office N件套
