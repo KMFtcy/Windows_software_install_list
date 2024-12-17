@@ -5,6 +5,12 @@
 - 安装karabiner-elements(https://karabiner-elements.pqrs.org/)
 - 安装alfred(https://www.alfredapp.com/)
 - 安装zotero(https://www.zotero.org/download/)
+  - 安装hartero(https://github.com/volatile-static/Chartero/releases)
+  - 安装Zotero Reference(https://github.com/MuiseDestiny/zotero-reference/releases)
+  - 安装zotero-style(https://github.com/MuiseDestiny/zotero-style/releases)
+  - 安装Translate for Zotero(https://github.com/windingwind/zotero-pdf-translate/releases)
+  - 安装zoplicate(https://github.com/ChenglongMa/zoplicate/releases)
+  - 安装ZoteroCitationCountsManager(https://github.com/FrLars21/ZoteroCitationCountsManager/releases)
 - 安装hyperswitch(https://bahoom.com/hyperswitch)
 - 安装滴答清单，不是ticktick(https://dida365.com/about/download)
 - 安装evernote(https://evernote.com/download)
@@ -19,6 +25,7 @@
 - 安装snipaste(https://www.snipaste.com/download.html)
 - 安装maccy(https://github.com/p0deje/Maccy/releases)
 - 安装Ice(https://github.com/jordanbaird/Ice/releases)
+- 安装parallel desktop(https://www.parallels.cn/products/desktop/welcome/)
 ### Store 安装
 - 安装onedrive
 - 安装office N件套
