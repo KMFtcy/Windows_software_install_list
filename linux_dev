@@ -1,0 +1,8 @@
+#Linux System Setup for development
+
+- lazygit(https://github.com/jesseduffield/lazygit)
+- fzf(https://github.com/junegunn/fzf)
+- zsh(apt install zsh)
+- ohmyzsh(https://ohmyz.sh/)
+- frp
+- powerlevel10k(https://github.com/romkatv/powerlevel10k)
