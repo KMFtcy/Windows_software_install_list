@@ -1,5 +1,4 @@
 ## Software List
-- 安装qspace
 - 安装edge(https://www.microsoft.com/en-us/edge/download)
 - 安装manico(https://manico.im/)
 - 安装karabiner-elements(https://karabiner-elements.pqrs.org/)
@@ -28,6 +27,7 @@
 - 安装maccy(https://github.com/p0deje/Maccy/releases)
 - 安装Ice(https://github.com/jordanbaird/Ice/releases)
 - 安装parallel desktop(https://www.parallels.cn/products/desktop/welcome/)
+- 安装notion(https://www.notion.com/download)
 ### Store 安装
 - 安装onedrive
 - 安装office N件套
