@@ -20,7 +20,10 @@
 - 安装cursor(https://www.cursor.com/)
 - 安装poe(https://poe.com/)
 - 安装anaconda(https://www.anaconda.com/download/success)
-- 安装brew install(/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)")
+- 安装brew install
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 - 安装snipaste(https://www.snipaste.com/download.html)
 - 安装maccy(https://github.com/p0deje/Maccy/releases)
 - 安装Ice(https://github.com/jordanbaird/Ice/releases)
