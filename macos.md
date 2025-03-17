@@ -31,7 +31,7 @@
 - 安装iterm2(https://iterm2.com/downloads.html)
 - 安装nerdfont
 ```
-brew install --cask font-jetbrains-mono-nerd-font
+brew install --cask font-meslo-lg-nerd-font
 ```
 ### Store 安装
 - 安装onedrive
