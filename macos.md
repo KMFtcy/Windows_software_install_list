@@ -13,7 +13,6 @@
   - 安装ZoteroCitationCountsManager(https://github.com/FrLars21/ZoteroCitationCountsManager/releases)
 - 安装hyperswitch(https://bahoom.com/hyperswitch)
 - 安装滴答清单，不是ticktick(https://dida365.com/about/download)
-- 安装evernote(https://evernote.com/download)
 - 安装欧陆词典(https://www.eudic.net/v4/en/app/download)
 - 安装qspace(https://qspace.awehunt.com/zh-cn/index.html)
 - 安装rectangle(https://rectangleapp.com/)
