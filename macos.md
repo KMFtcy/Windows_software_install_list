@@ -28,6 +28,7 @@
 - 安装Ice(https://github.com/jordanbaird/Ice/releases)
 - 安装parallel desktop(https://www.parallels.cn/products/desktop/welcome/)
 - 安装notion(https://www.notion.com/download)
+- 安装iterm2(https://iterm2.com/downloads.html)
 ### Store 安装
 - 安装onedrive
 - 安装office N件套
