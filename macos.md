@@ -29,6 +29,10 @@
 - 安装parallel desktop(https://www.parallels.cn/products/desktop/welcome/)
 - 安装notion(https://www.notion.com/download)
 - 安装iterm2(https://iterm2.com/downloads.html)
+- 安装nerdfont
+```
+brew install --cask font-jetbrains-mono-nerd-font
+```
 ### Store 安装
 - 安装onedrive
 - 安装office N件套
