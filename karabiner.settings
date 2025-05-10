@@ -1,0 +1,40 @@
+{
+    "description": "Change left_shift to caps_lock when tapped (with debounce)",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "left_shift",
+                "modifiers": { "optional": ["any"] }
+            },
+            "parameters": {
+                "basic.to_delayed_action_delay_milliseconds": 250,
+                "basic.to_if_alone_timeout_milliseconds": 200
+            },
+            "to": [{ "key_code": "left_shift" }],
+            "to_if_alone": [{ "key_code": "caps_lock" }],
+            "type": "basic"
+        }
+    ]
+}
+
+{
+    "description": "Map ctrl+f1 to option+f1 for snipaste",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "f1",
+                "modifiers": {
+                    "mandatory": ["control"],
+                    "optional": ["any"]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "f1",
+                    "modifiers": ["option"]
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
