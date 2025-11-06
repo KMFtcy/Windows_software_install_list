@@ -1,6 +1,8 @@
 #Linux System Setup for development
 
 - lazygit(https://github.com/jesseduffield/lazygit)
+- lazyssh(https://github.com/Adembc/lazyssh)
+- zellij(https://github.com/Adembc/lazyssh)
 - fzf(https://github.com/junegunn/fzf)
 - zsh(apt install zsh)
 - ohmyzsh(https://ohmyz.sh/)
