@@ -1,10 +1,11 @@
 #Linux System Setup for development
 
-- lazygit(https://github.com/jesseduffield/lazygit)
-- lazyssh(https://github.com/Adembc/lazyssh)
-- zellij(https://github.com/Adembc/lazyssh)
-- fzf(https://github.com/junegunn/fzf)
-- zsh(apt install zsh)
-- ohmyzsh(https://ohmyz.sh/)
+- lazygit (https://github.com/jesseduffield/lazygit)
+- lazyssh (https://github.com/Adembc/lazyssh)
+- zellij (https://github.com/Adembc/lazyssh)
+- zoxide (https://github.com/ajeetdsouza/zoxide)
+- fzf (https://github.com/junegunn/fzf)
+- zsh (apt install zsh)
+- ohmyzsh (https://ohmyz.sh/)
 - frp
 - powerlevel10k(https://github.com/romkatv/powerlevel10k)
