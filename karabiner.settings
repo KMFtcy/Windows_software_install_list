@@ -1,17 +1,14 @@
 {
-    "description": "Change left_shift to caps_lock when tapped (with debounce)",
+    "description": "Short press Left Shift -> keyboard_fn (toggle IME); otherwise normal Shift",
     "manipulators": [
         {
             "from": {
                 "key_code": "left_shift",
                 "modifiers": { "optional": ["any"] }
             },
-            "parameters": {
-                "basic.to_delayed_action_delay_milliseconds": 250,
-                "basic.to_if_alone_timeout_milliseconds": 200
-            },
             "to": [{ "key_code": "left_shift" }],
-            "to_if_alone": [{ "key_code": "caps_lock" }],
+            "to_if_alone": [{ "apple_vendor_top_case_key_code": "keyboard_fn" }],
+            "to_if_held_down": [{ "key_code": "left_shift" }],
             "type": "basic"
         }
     ]
