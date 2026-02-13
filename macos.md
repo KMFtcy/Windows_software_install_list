@@ -33,7 +33,7 @@ brew install --cask raycast
 - 安装poe(https://poe.com/)
 - 安装anaconda(https://www.anaconda.com/download/success)
 - 安装snipaste(https://www.snipaste.com/download.html)
-- 安装Ice(https://github.com/jordanbaird/Ice/releases)
+- 安装Thaw(https://github.com/stonerl/Thaw)
 - 安装parallel desktop(https://www.parallels.cn/products/desktop/welcome/)
 - 安装notion(https://www.notion.com/download)
 - 安装iterm2(https://iterm2.com/downloads.html)
