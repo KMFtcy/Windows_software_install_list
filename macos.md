@@ -38,6 +38,9 @@ brew install --cask snipaste
 - 安装Thaw(https://github.com/stonerl/Thaw)
 - 安装parallel desktop(https://www.parallels.cn/products/desktop/welcome/)
 - 安装notion(https://www.notion.com/download)
+```
+brew install --cask notion
+```
 - 安装iterm2(https://iterm2.com/downloads.html)
 - 安装nerdfont
 ```
