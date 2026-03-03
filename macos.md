@@ -31,7 +31,6 @@ brew install --cask raycast
 - 安装vscode(https://code.visualstudio.com/)
 - 安装cursor(https://www.cursor.com/)
 - 安装poe(https://poe.com/)
-- 安装anaconda(https://www.anaconda.com/download/success)
 - 安装snipaste(https://www.snipaste.com/download.html)
 - 安装Thaw(https://github.com/stonerl/Thaw)
 - 安装parallel desktop(https://www.parallels.cn/products/desktop/welcome/)
