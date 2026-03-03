@@ -32,6 +32,9 @@ brew install --cask raycast
 - 安装cursor(https://www.cursor.com/)
 - 安装poe(https://poe.com/)
 - 安装snipaste(https://www.snipaste.com/download.html)
+```
+brew install --cask snipaste
+```
 - 安装Thaw(https://github.com/stonerl/Thaw)
 - 安装parallel desktop(https://www.parallels.cn/products/desktop/welcome/)
 - 安装notion(https://www.notion.com/download)
